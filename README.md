@@ -182,4 +182,4 @@ Note: Iris is a labeled dataset, but K-Means ignores its target labels during cl
 
 ---
 
-**Next:** Explore Hierarchical Clustering and compare its clustering structure with K-Means.
+
